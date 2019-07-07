@@ -1,0 +1,6 @@
+Nome Saldo 
+Ramon 12 
+Pedro 0 
+Lucas 2 
+Joao 19 
+Maria 10 
